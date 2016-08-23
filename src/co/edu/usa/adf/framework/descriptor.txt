@@ -1,0 +1,6 @@
+co.edu.usa.adf.framework.Persona
+String Nombre 20
+Integer Cedula 11
+String Sexo 10
+Integer Edad 3
+
