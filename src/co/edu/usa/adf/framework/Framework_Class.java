@@ -18,6 +18,7 @@ public class Framework_Class {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("");
         Read leer = new Read();
         leer.readDescriptor("C:\\Users\\mario\\Documents\\NetBeansProjects\\Framework_Class\\src\\co\\edu\\usa\\adf\\framework\\descriptor.txt");
         //new Write("C:\\Users\\mario\\Documents\\NetBeansProjects\\Framework_Class\\src\\co\\edu\\usa\\adf\\framework\\archivo.txt");
